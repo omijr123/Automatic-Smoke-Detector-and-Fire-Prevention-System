@@ -1,0 +1,2 @@
+# Automatic-Smoke-Detector-and-Fire-Prevention-System
+Here's a concise description:  The "Automatic Smoke Detector and Fire Prevention System" detects smoke and triggers preventive actions, such as opening doors, activating sprinklers, and shutting down appliances. Utilizing IoT and Cisco Packet Tracer, it ensures swift responses to minimize fire risks in residential, industrial, and public spaces.
