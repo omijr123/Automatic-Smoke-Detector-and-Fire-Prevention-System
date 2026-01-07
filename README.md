@@ -8,7 +8,7 @@
 
 ### 🚨 **Key Features**  
 - **Threshold-Based Detection:** Smoke level trigger at 0.5  
-- **Automated Actions:** Ventilation, sprinklers, electronics shutdown  
+- **Automated Actions:** Ventilation, sprinklers, electronics shutdown   
 - **Alerts:** Real-time smartphone notifications & web dashboard
 
 ---
